@@ -19,7 +19,7 @@ st.title("Rossman Sales Forcasting")
 # -----------------------------------------
 # LOAD DATA
 # -----------------------------------------
-train=pd.read_csv("C:/Users/vijay/OneDrive/Desktop/project6/train.csv")
-test=pd.read_csv("C:/Users/vijay/OneDrive/Desktop/project6/test.csv")
-store=pd.read_csv("C:/Users/vijay/OneDrive/Desktop/project6/store.csv")
-sample_submission=pd.read_csv("C:/Users/vijay/OneDrive/Desktop/project6/sample_submission.csv")
+train=pd.read_csv("train.csv")
+test=pd.read_csv("test.csv")
+store=pd.read_csv("store.csv")
+sample_submission=pd.read_csv("sample_submission.csv")
