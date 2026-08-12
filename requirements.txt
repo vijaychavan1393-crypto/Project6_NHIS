@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask
 gunicorn
 pandas
@@ -7,3 +8,13 @@ matplotlib
 seaborn
 streamlit
 plotly
+=======
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+plotly
+flask
+gunicorn
+>>>>>>> cf43684 (initial commit)
