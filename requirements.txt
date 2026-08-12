@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-Flask
-gunicorn
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-streamlit
-plotly
-=======
 pandas
 numpy
 matplotlib
